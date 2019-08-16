@@ -28,3 +28,20 @@ From the chart above, we could see that the 2 bedrooms properties (green) actual
 
 Intuition tells that perhaps properties with 2 bedrooms are located farther away from the CBD where land price is cheaper, hence larger properties size.
 
+### Mean Price in Different Suburbs (Neighborhood)
+
+![mean_price_neighborhood](img/mean_price_neighborhood.png)
+
+The least expensive suburb is Meadow Vale (MeadowV) and the most expensive is North Ridge. It is astounding that the mean price difference is more than 3 times
+
+### Heatmap of Number of Bedrooms of Properties for Different Neighborhood
+
+![heatmap_br_neighborhood](img/heatmap_br_neighborhood.png)
+
+From the heatmap, we could understand on why North Ridge can have the highest mean in properties prices, the suburb is dominated by 4 bedroom properties, while Meadow Vale has a more balanced distribution.
+
+We can also see why 2BR properties have smaller mean compared to 1BR properties (see Price Distribution chart), the majority of 2BR properties are located in North Ames and Old Town, which are among the least expensive neighborhood.
+
+
+
+
